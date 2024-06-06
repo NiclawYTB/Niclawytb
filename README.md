@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour ! je suis Niclaw</h1>
-<h3 align="center">Je suis passionné de programmation !</h3>
+<h1 align="center">Hello ! I am Niclaw</h1>
+<h3 align="center">I am passionate about development !</h3>
 
 - 🔭 I’m currently working on **Note-brevet**
 
