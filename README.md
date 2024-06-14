@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Note-brevet**
 
-- 🌱 I’m currently learning **SQL and TypScript**
+- 🌱 I’m currently learning **BootStrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
