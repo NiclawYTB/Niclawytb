@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Keyboard Autoclick**
 
-- 🌱 I’m currently learning **BootStrap**
+- 🌱 I’m currently learning **Tailwindcss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
